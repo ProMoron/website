@@ -1,0 +1,22 @@
+#main {
+	 max-width: 20%;
+	 height: auto;
+	 margin-left: 35%;
+	 margin-right: 35%;
+	
+	background: #f3c5f9;
+	border: 5px solid;
+	border-color:black;
+	padding: 10px 10px 10px 10px;	
+		
+}
+
+body {
+background-color: #66e618;
+opacity: 1;
+background-image:  radial-gradient(#d44cfa 5px, transparent 1.75px), radial-gradient(#d44cfa 2.75px, #66e618 4.75px);
+background-size: 70px 70px;
+background-position: 0 0,35px 35px;
+}
+
+
